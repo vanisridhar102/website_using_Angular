@@ -1,0 +1,102 @@
+#b3{
+background-color: rgb(236, 140, 156);
+}
+#b3:hover{
+    background-color: lightgreen;
+}
+#navbarNav{
+color:lightsteelblue;
+}
+#b1:hover{color:antiquewhite;text-decoration: none;}
+#b1{color:blue;}
+#b2:hover{color:antiquewhite;text-decoration: none;}
+#b2{color: limegreen;}
+#b5{color: lightyellow;text-decoration: none;}
+
+.navbar-custom .navbar-brand , .navbar-custom .navbar-text{color:rgb(96, 236, 171);} 
+
+ #hed
+ {
+     color: rgb(11, 182, 235);
+     text-shadow:2px 2px 2px white;
+     padding-top: 150px;
+     padding-left: 230px;
+     font-family: serif;
+     margin-bottom: 20px;
+     position: relative;
+     animation: text 3s 1;
+  }
+  #hed1{
+      color:rgb(47, 255, 193);
+      padding-left: 200px;
+
+      font-size: 27px;
+  }
+  #para
+  {
+     padding-left: 120px;
+     color:rgb(250, 245, 245);
+     /* text-shadow: 1px 1px 1px blue; */
+     font-size: 15px;
+     font-family: Lucida Sans Unicode;
+     position: relative;
+  }
+  @keyframes text
+  {
+      0%{
+          color: black;
+          margin-bottom: -25%;
+
+      }
+      30%{
+          letter-spacing: 6px;
+          margin-bottom:-25px;
+      }
+      65%{
+          letter-spacing: 4px;
+          margin-bottom: -25px;
+      }
+      90%{
+          letter-spacing: 2px;
+          margin-bottom: -25px;
+      }
+  }
+ #butt
+  {
+      padding-left: 270px;
+  }
+  #b4{
+      background-color:rgb(235, 11, 41);
+      color:lightyellow;
+      text-shadow:1px 1px 2px white;
+      box-shadow:5px 5px 5px skyblue;
+  }
+  #b4:hover{
+      background-color: green;
+  }
+  #imga
+  {
+      margin-top: -250px;
+      padding-left: 900px;
+  }
+  #im1
+  {
+      border-radius: 50%;
+      width:5px;
+      height:170px;
+      border-radius: 50%;
+      border: 3px solid blue;
+  }
+ #pro{
+     padding-left: 960px;
+     padding-top: -200px;
+     color: pink;
+     font-size: 22px;
+     text-shadow:2px 2px 1px black;
+ }
+ #s{
+     color:lightgreen;
+ }  
+ #c1{color:beige;}
+ #m1{background-color: lightsteelblue;color: lightyellow;}
+ #m2:hover{color:blue;background-color: lightgreen;}

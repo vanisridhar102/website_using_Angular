@@ -1,0 +1,17 @@
+a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    
+} 
+a:hover{
+    color: brown;
+    text-decoration: none;
+    background-color: pink;
+}
+#d1{
+    background-color: black;
+    padding:10px;
+} 
+

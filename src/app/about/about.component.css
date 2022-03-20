@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+}
+#p1{
+   background-color: lightpink;
+   font-size: larger;
+}
+#p2{
+    background-color: lightskyblue;
+    font-size: larger;
+}
+#m1{
+    width: 400px;
+    height: 220px;
+    float: right;
+}

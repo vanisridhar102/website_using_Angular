@@ -1,0 +1,26 @@
+#form{
+    width:50%;
+    margin-left: 25%;
+    background-color: rgb(233, 49, 17);
+    box-shadow: 10px 10px 10px black;
+    margin-top: 10px;
+    text-align: center;
+}
+#le1{
+    color:rgb(232, 232, 241);
+    text-align: center;
+}
+#d1{
+    width:50%;
+    margin-left: 25%;
+    background-color: rgb(22, 22, 233);
+    box-shadow: 10px 10px 10px black;
+    color: rgb(248, 243, 241);
+    text-align: center;
+}
+#b1{
+    background-color:rgb(100, 236, 100);
+    color:rgb(3, 41, 3);
+    width:100px;
+    height:20px;
+}
